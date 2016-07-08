@@ -1,0 +1,21 @@
+{
+  "name": "presentazione-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "prez",
+    "start": "prez --serve",
+    "deploy": "surge --domain presentazioneschiabelalberto.surge.sh --project ./build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a11n/lint-workshop-slides.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a11n/lint-workshop-slides/issues"
+  },
+  "homepage": "https://github.com/a11n/lint-workshop-slides#readme"
+}

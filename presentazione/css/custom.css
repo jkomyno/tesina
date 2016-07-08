@@ -1,0 +1,67 @@
+/* custom styles can go here */
+
+/* general changes */
+body {
+    background: -webkit-radial-gradient(center, circle cover, rgb(82, 110, 146) 0%, rgb(12, 14, 14) 100%) !important;
+}
+
+.reveal section img {
+  margin: 0px 0px;
+  background: rgba(255, 255, 255, 0);
+  border: 0;
+  box-shadow: 0 0 0px rgba(0, 0, 0, 0); }
+
+.reveal a {
+  color: #88c540; }
+
+.reveal a:hover {
+  color: #e08610;
+  text-decoration: underline; }
+
+.reveal .progress span {
+  background: #88c540; }
+
+.reveal .slide-number {
+  color: #88c540; }
+
+i {
+  margin: 0 8px 0 32px; }
+
+.hljs-string, .hljs-attribute, .hljs-addition {
+    color: #67f54f;
+}
+
+.hljs-keyword, .hljs-selector-tag, .hljs-deletion {
+    color: #8bc1ff;
+}
+
+/* slide specific changes */
+.aboutme img {
+  float:left;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px; }
+
+.gettingstarted h3 {
+  text-transform: none;
+  font-size: 2.18em; }
+
+.reveal h1 {
+  color: #ff5252
+}
+
+.reveal h2, .reveal h3 {
+  color: #fffc19
+}
+
+.button {
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 20px !important;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+  border-radius: 75px !important;
+}

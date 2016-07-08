@@ -1,0 +1,2 @@
+Per poter sfruttare da un alto livello le API di WebRTC, ho utilizzato il package npm "socket.io-p2p", che a sua volta utilizza il modulo "simple-peer".
+Il server STUN impostato da queste librerie è di proprietà di Google, ed è accessibile da 23.21.150.121.

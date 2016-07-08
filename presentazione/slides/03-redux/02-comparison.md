@@ -1,0 +1,1 @@
+![Redux image](https://i.imgur.com/jXjIqri.png)

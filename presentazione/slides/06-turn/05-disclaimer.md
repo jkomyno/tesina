@@ -1,0 +1,1 @@
+Secondo le statistiche fornite da Google, in un'applicazione WebRTC (attualmente accessibile da circa 1 miliardo di host) l'86% dei dati trasmessi è realmente peer-to-peer, mentre il restante 14% ripiega sull'utilizzo di TURN.

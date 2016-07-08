@@ -1,0 +1,2 @@
+I NAT si occupano di distribuire indirizzi IP privati all'interno di una rete locale, e tali indirizzi non sono utili ai fini della comunicazione globale.
+### Non è possibile stabilire una connessione peer-to-peer a meno che non vengano utilizzati indirizzi IP pubblici.
